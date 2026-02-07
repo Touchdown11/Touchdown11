@@ -92,7 +92,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
   <a href="mailto:buddhikakpl@gmail.com">
-    <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
   <a>
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" width="45"/>
