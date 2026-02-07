@@ -91,7 +91,7 @@
   <a href="https://www.linkedin.com/in/muhammad-abu-hurairah-988ba1303">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-  <a href="https://instagram.com/abu_hurairah.rehmani">
+  <a href="mailto:buddhikakpl@gmail.com">
     <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="45"/>
   </a>
   <a>
