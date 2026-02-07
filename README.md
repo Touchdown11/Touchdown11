@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  I'm a passionate <strong>Fullstack Engineer</strong> and <strong>UI/UX Specialist</strong> based in <strong>Sri Lanka 🇱🇰</strong>. <br/>
+  I'm a passionate <strong>Fullstack Engineer</strong> and <strong>UI/UX Specialist</strong>. <br/>
   I design, build, and deliver innovative, high-quality digital products from concept to deployment. My focus is on writing clean, efficient code and creating intuitive user experiences.
 </p>
 
