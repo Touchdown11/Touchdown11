@@ -27,11 +27,11 @@
 
 <div align="center">
   <table>
-    <tr>
+    <!--<tr>
       <td >
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Touchdown11&theme=2077&animation=true" alt="Top Languages" />
       </td>
-    </tr>
+    </tr>-->
     <tr>
       <td align="center" width="50%">
         <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Touchdown11&" alt="Touchdown11"/>
@@ -43,9 +43,9 @@
   </table>
   
   <br/>
-<img align="left" src="https://github-readme-stats-three-gamma-87.vercel.app/api/top-langs?username=Touchdown11&show_icons=true&locale=en&layout=compact" alt="Touchdown11"/>
+<!--<img align="left" src="https://github-readme-stats-three-gamma-87.vercel.app/api/top-langs?username=Touchdown11&show_icons=true&locale=en&layout=compact" alt="Touchdown11"/>
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Touchdown11&show_icons=true&theme=github&hide=rank_badge"  display=block width=100% height=auto  alt="Graph Stats"></p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Touchdown11&show_icons=true&theme=github&hide=rank_badge"  display=block width=100% height=auto  alt="Graph Stats"></p>-->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Touchdown11&theme=react-dark&bg_color=0D1117&color=14FAD2&line=F8D347&point=14FAD2&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
