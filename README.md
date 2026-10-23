@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=14FAD2&center=true&vCenter=true&width=600&lines=LAKSHAN'S+SPACE+🚀;FULLSTACK+ENGINEER;UI%2FUX+SPECIALIST;BUILDING+THE+FUTURE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=14FAD2&center=true&vCenter=true&width=600&lines=Avionics+🚀;FULLSTACK+ENGINEER;UI%2FUX+SPECIALIST;BUILDING+THE+FUTURE" alt="Typing SVG" />
   
   <h3 style="color: #F8D347; font-family: sans-serif; font-weight: bold; margin-top: 10px;">
     Crafting scalable solutions & exceptional digital experiences.
