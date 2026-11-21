@@ -80,30 +80,29 @@
 
 <br />
 
----
-
 ## 📫 Connect With Me
 
-<div align="center">
-  <a href="https://x.com/HurairahAb73769">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+<div align="center" style="transition: all 0.3s ease; padding: 15px; border-radius: 10px; background: rgba(20, 250, 210, 0.05); border: 1px dashed #14FAD2; max-width: 500px; margin: 0 auto;">
+  <a href="" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 15px #14FAD2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-abu-hurairah-988ba1303">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  <a href="" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 15px #14FAD2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
-  <a href="mailto:buddhikakpl@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  <a href="mailto:buddhikakpl@gmail.com" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 15px #14FAD2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" width="45"/>
+  <a href="" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" width="45" alt="StackOverflow" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 15px #14FAD2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" width="45"/>
+  <a href="" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" width="45" alt="CodePen" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 15px #14FAD2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25&height=100&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=20&fontColor=14FAD2" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25&height=100&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=20&fontColor=14FAD2" width="100%" alt="Footer Wave" style="transition: transform 0.3s ease; filter: drop-shadow(0 0 10px rgba(20, 250, 210, 0.2));" onmouseover="this.style.filter='drop-shadow(0 0 20px rgba(20, 250, 210, 0.5))';" onmouseout="this.style.filter='drop-shadow(0 0 10px rgba(20, 250, 210, 0.2))';" />
 </div>
+
