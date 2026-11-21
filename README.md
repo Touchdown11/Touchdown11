@@ -40,11 +40,11 @@
     👥 3 Followers · 3 Following
   </p>
   <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-    <a href="https://x.com/HurairahAb73769" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
-    <a href="https://www.linkedin.com/in/muhammad-abu-hurairah-988ba1303" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
+    <a href="" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
+    <a href="https://www.linkedin.com/in/buddhikalakshan" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
     <a href="mailto:buddhikakpl@gmail.com" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
-    <a href="https://stackoverflow.com/users/story/179507154" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" width="45" alt="StackOverflow" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
-    <a href="https://codepen.io/Touchdown11" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" width="45" alt="CodePen" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
+    <a href="" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" width="45" alt="StackOverflow" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
+    <a href="" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" width="45" alt="CodePen" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
   </div>
   <p style="color: #8B949E; font-size: 0.9em; font-family: sans-serif; margin-top: 20px; font-style: italic;">
     "I design, build, and deliver innovative, high-quality digital products from concept to deployment. My focus is on writing clean, efficient code and creating intuitive user experiences."
@@ -60,17 +60,24 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Touchdown11&" alt="Touchdown11" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.03)';" onmouseout="this.style.transform='scale(1)';"/>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <img align="center" src="https://github-readme-stats-three-gamma-87.vercel.app/api?username=Touchdown11&theme=2077&show_icons=true&locale=en&rank_icon=github" alt="Touchdown11" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.03)';" onmouseout="this.style.transform='scale(1)';"/>
+      </td>
+      <td align="center" width="34%">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Touchdown11&show_icons=true&theme=2077&hide=rank_badge" alt="Profile Details" style="transition: transform 0.3s ease; border-radius: 8px; box-shadow: 0 4px 15px rgba(20, 250, 210, 0.1);" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 30px rgba(20, 250, 210, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(20, 250, 210, 0.1)';"/>
       </td>
     </tr>
   </table>
   
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Touchdown11&theme=react-dark&bg_color=0D1117&color=14FAD2&line=F8D347&point=14FAD2&area=true&hide_border=true" alt="Contribution Graph" style="transition: transform 0.3s ease; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 30px rgba(20, 250, 210, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.3)';"/>
+  <div align="center" style="margin: 20px 0; padding: 20px; border-radius: 12px; background: rgba(13, 17, 23, 0.8); border: 1px solid #14FAD2; box-shadow: 0 4px 15px rgba(20, 250, 210, 0.1); max-width: 900px; margin-left: auto; margin-right: auto; transition: all 0.3s ease;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Touchdown11&theme=react-dark&bg_color=0D1117&color=14FAD2&line=F8D347&point=14FAD2&area=true&hide_border=true" alt="Contribution Graph" style="transition: transform 0.3s ease; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); width: 100%; max-width: 800px;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 30px rgba(20, 250, 210, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.3)';"/>
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Touchdown11&theme=2077&animation=true" alt="Top Languages" style="transition: transform 0.3s ease; border-radius: 8px; box-shadow: 0 4px 15px rgba(20, 250, 210, 0.1); width: 100%; max-width: 600px; margin-top: 15px;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 30px rgba(20, 250, 210, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(20, 250, 210, 0.1)';"/>
+  </div>
 </div>
 
 <br />
@@ -110,7 +117,7 @@
   <a href="" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
     <img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 15px #14FAD2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
-  <a href="" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
+  <a href="https://www.linkedin.com/in/buddhikalakshan" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 15px #14FAD2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
   <a href="mailto:buddhikakpl@gmail.com" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
