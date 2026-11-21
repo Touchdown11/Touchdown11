@@ -23,30 +23,54 @@
 
 ---
 
+## 👤 Profile Owner Details
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/179507154?v=4" alt="K P B Lakshan" width="120" style="border-radius: 50%; border: 4px solid #14FAD2; box-shadow: 0 4px 15px rgba(20, 250, 210, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(20, 250, 210, 0.6)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(20, 250, 210, 0.3)';"/>
+</div>
+
+<div align="center" style="margin-top: 15px; padding: 20px; border-radius: 12px; background: linear-gradient(135deg, #0D1117 0%, #1A1F2B 100%); border: 1px solid #14FAD2; box-shadow: 0 8px 20px rgba(20, 250, 210, 0.1); max-width: 800px; margin-left: auto; margin-right: auto; transition: all 0.3s ease;">
+  <h2 style="color: #F8D347; margin-top: 0; font-family: sans-serif; text-shadow: 0 2px 4px rgba(248, 211, 71, 0.4);">
+    K P B Lakshan (Touchdown11)
+  </h2>
+  <p style="color: #E6EDF3; font-size: 1.1em; font-family: sans-serif; margin: 10px 0;">
+    <strong>Fullstack Engineer & UI/UX Specialist</strong><br/>
+    📍 Colombo, Sri Lanka<br/>
+    🔗 <a href="https://lakshankpb.vercel.app/" style="color: #14FAD2; text-decoration: none; font-weight: bold;">lakshankpb.vercel.app</a><br/>
+    👥 3 Followers · 3 Following
+  </p>
+  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
+    <a href="https://x.com/HurairahAb73769" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
+    <a href="https://www.linkedin.com/in/muhammad-abu-hurairah-988ba1303" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
+    <a href="mailto:buddhikakpl@gmail.com" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
+    <a href="https://stackoverflow.com/users/story/179507154" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" width="45" alt="StackOverflow" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
+    <a href="https://codepen.io/Touchdown11" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" width="45" alt="CodePen" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
+  </div>
+  <p style="color: #8B949E; font-size: 0.9em; font-family: sans-serif; margin-top: 20px; font-style: italic;">
+    "I design, build, and deliver innovative, high-quality digital products from concept to deployment. My focus is on writing clean, efficient code and creating intuitive user experiences."
+  </p>
+</div>
+
+<br />
+
+---
+
 ## 📊 Analytics & Overview
 
 <div align="center">
   <table>
-    <!--<tr>
-      <td >
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Touchdown11&theme=2077&animation=true" alt="Top Languages" />
-      </td>
-    </tr>-->
     <tr>
       <td align="center" width="50%">
-        <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Touchdown11&" alt="Touchdown11"/>
+        <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Touchdown11&" alt="Touchdown11" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.03)';" onmouseout="this.style.transform='scale(1)';"/>
       </td>
       <td align="center" width="50%">
-        <img align="center" src="https://github-readme-stats-three-gamma-87.vercel.app/api?username=Touchdown11&theme=2077&show_icons=true&locale=en&rank_icon=github" alt="Touchdown11" />
+        <img align="center" src="https://github-readme-stats-three-gamma-87.vercel.app/api?username=Touchdown11&theme=2077&show_icons=true&locale=en&rank_icon=github" alt="Touchdown11" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.03)';" onmouseout="this.style.transform='scale(1)';"/>
       </td>
     </tr>
   </table>
   
   <br/>
-<!--<img align="left" src="https://github-readme-stats-three-gamma-87.vercel.app/api/top-langs?username=Touchdown11&show_icons=true&locale=en&layout=compact" alt="Touchdown11"/>
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Touchdown11&show_icons=true&theme=github&hide=rank_badge"  display=block width=100% height=auto  alt="Graph Stats"></p>-->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Touchdown11&theme=react-dark&bg_color=0D1117&color=14FAD2&line=F8D347&point=14FAD2&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Touchdown11&theme=react-dark&bg_color=0D1117&color=14FAD2&line=F8D347&point=14FAD2&area=true&hide_border=true" alt="Contribution Graph" style="transition: transform 0.3s ease; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 30px rgba(20, 250, 210, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.3)';"/>
 </div>
 
 <br />
@@ -58,15 +82,15 @@
 <div align="center">
   
   **Languages**<br/>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,cpp,php,c" alt="Languages" height="45" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,cpp,php,c" alt="Languages" height="45" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
   <br/><br/>
 
   **Frameworks & Databases**<br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,mongodb,postgres,firebase" alt="Frameworks & Databases" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,mongodb,postgres,firebase" alt="Frameworks & Databases" height="45" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
   <br/><br/>
 
   **Tools & Platforms**<br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,idea,vscode,linux" alt="Tools" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,idea,vscode,linux" alt="Tools" height="45" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
 
 </div>
 
@@ -75,7 +99,7 @@
 ## 🚀 Current Focus
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,docker,aws,python" alt="Current Focus" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,docker,aws,python" alt="Current Focus" height="50" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
 </div>
 
 <br />
