@@ -40,11 +40,11 @@
     👥 3 Followers · 3 Following
   </p>
   <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-    <a href="" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
+    <a href="https://x.com/Buddhika04" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
     <a href="https://www.linkedin.com/in/buddhikalakshan" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
     <a href="mailto:buddhikakpl@gmail.com" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
     <a href="" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" width="45" alt="StackOverflow" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
-    <a href="" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" width="45" alt="CodePen" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
+    <a href="https://codepen.io/Touch-Down" target="_blank" style="color: #14FAD2; text-decoration: none; transition: transform 0.2s;"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" width="45" alt="CodePen" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/></a>
   </div>
   <p style="color: #8B949E; font-size: 0.9em; font-family: sans-serif; margin-top: 20px; font-style: italic;">
     "I design, build, and deliver innovative, high-quality digital products from concept to deployment. My focus is on writing clean, efficient code and creating intuitive user experiences."
@@ -111,7 +111,7 @@
 ## 📫 Connect With Me
 
 <div align="center" style="transition: all 0.3s ease; padding: 15px; border-radius: 10px; background: rgba(20, 250, 210, 0.05); border: 1px dashed #14FAD2; max-width: 500px; margin: 0 auto;">
-  <a href="" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
+  <a href="https://x.com/Buddhika04" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
     <img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 15px #14FAD2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
   <a href="https://www.linkedin.com/in/buddhikalakshan" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
@@ -123,7 +123,7 @@
   <a href="" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" width="45" alt="StackOverflow" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 15px #14FAD2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
-  <a href="" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
+  <a href="https://codepen.io/Touch-Down" style="text-decoration: none; transition: transform 0.2s; display: inline-block; margin: 5px;">
     <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" width="45" alt="CodePen" style="filter: drop-shadow(0 0 5px #14FAD2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 15px #14FAD2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
   </a>
 </div>
