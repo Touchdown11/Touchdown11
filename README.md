@@ -61,9 +61,6 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Touchdown11&" alt="Touchdown11" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.03)';" onmouseout="this.style.transform='scale(1)';"/>
-      </td>
-      <td align="center" width="33%">
         <img align="center" src="https://github-readme-stats-three-gamma-87.vercel.app/api?username=Touchdown11&theme=2077&show_icons=true&locale=en&rank_icon=github" alt="Touchdown11" style="transition: transform 0.3s ease; border-radius: 8px;" onmouseover="this.style.transform='scale(1.03)';" onmouseout="this.style.transform='scale(1)';"/>
       </td>
       <td align="center" width="34%">
