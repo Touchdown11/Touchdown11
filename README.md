@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=14FAD2&center=true&vCenter=true&width=600&lines=Avionics+🚀;FULLSTACK+ENGINEER;UI%2FUX+SPECIALIST;BUILDING+THE+FUTURE" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&lines=Avionic+%F0%9F%9A%80;Fullstack+Engineer+%F0%9F%92%BB;UI%2FUX+Specialist+%F0%9F%8E%A8;Embedded+Systems+%F0%9F%94%8C;IoT+%F0%9F%93%A1;Building+the+Future+%F0%9F%8C%8D" alt="Typing SVG" />
+</a>
   
   <h3 style="color: #F8D347; font-family: sans-serif; font-weight: bold; margin-top: 10px;">
     Crafting scalable solutions & exceptional digital experiences.
